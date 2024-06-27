@@ -12,6 +12,8 @@ Superstore Sales, one of Canada’s largest retail stores, sought to optimize it
 
 ### Process
 
+### Activity 1:
+
 #### Section 1: Basic Formatting
 
 1. **Increased Column Widths**: Adjusted column widths for readability.
